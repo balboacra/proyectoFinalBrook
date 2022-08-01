@@ -1,0 +1,14 @@
+[
+    {"id":1, "estilo": "Ipa", "pack": "Pack 6", "precio": 2500, "img": "../img/IPA.jpg"},
+    {"id":2, "estilo": "Ipa", "pack": "Pack 12", "precio": 4800, "img": "../img/IPA.jpg"},
+    {"id":3, "estilo": "Ipa", "pack": "Pack 24", "precio": 9000, "img": "../img/IPA.jpg"},
+    {"id":4, "estilo": "Cream Ale", "pack": "Pack 6", "precio": 2500, "img": "../img/Cream Ale.jpg"},
+    {"id":5, "estilo": "Cream Ale", "pack": "Pack 12", "precio": 4800, "img": "../img/Cream Ale.jpg"},
+    {"id":6, "estilo": "Cream Ale", "pack": "Pack 24", "precio": 9000, "img": "../img/Cream Ale.jpg"},
+    {"id":7, "estilo": "Scottish", "pack": "Pack 6", "precio": 2500, "img": "../img/Scottish.jpg"},
+    {"id":8, "estilo": "Scottish", "pack": "Pack 12", "precio": 4800, "img": "../img/Scottish.jpg"},
+    {"id":9, "estilo": "Scottish", "pack": "Pack 24", "precio": 9000, "img": "../img/Scottish.jpg"},
+    {"id":10,"estilo": "Milk Stout", "pack": "Pack 6", "precio": 2500, "img": "../img/Milk Stout.jpg"},
+    {"id":11,"estilo": "Milk Stout", "pack": "Pack 12", "precio": 4800, "img": "../img/Milk Stout.jpg"},
+    {"id":12,"estilo": "Milk Stout", "pack": "Pack 24", "precio": 9000, "img": "../img/Milk Stout.jpg"}
+]
