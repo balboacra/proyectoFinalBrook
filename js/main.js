@@ -32,11 +32,11 @@ items.addEventListener('click', e => {
 })
 
 confirmarCompra.addEventListener('click', e => {
-    if (carrito.length === 0) {
+    if (templateCarrito.querySelector("th").textContent = ``) {
         Swal.fire({
             title: 'Necesitas comprar algo',
             text: 'Sin cerveza el mundo es triste',
-            imageUrl: '',
+            imageUrl: '../img/Brindis-cerveza.jpg',
             imageAlt: 'Cervezas',
         })
     } else {
@@ -135,7 +135,7 @@ const renderCarrito = () => {
 // Footer del carrito
 
 const renderFooter = () => {
-    footer.innerText = ''
+    footer.innerText = ``
 
     const sumaCantidad = Object.values(carrito).reduce((acc, { cantidad }) => acc + cantidad, 0)
     const sumaPrecio = Object.values(carrito).reduce((acc, { cantidad, precio }) => acc + cantidad * precio, 0)
